@@ -1,0 +1,18 @@
+.background {
+    background-color: #FEDD8A;   
+} 
+.color{
+	color:white;
+}
+.margen{
+	margin:100px;
+}
+.padding{
+	padding:20px;
+}
+.radio{
+	border-radius: 40%;
+}
+h2{
+	color: red;
+}
