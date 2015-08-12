@@ -7,16 +7,15 @@
 .margen{
 	margin:100px;
 }
-.padding{
-	padding:20px;
-}
-.radio{
+.borde-imagen{
 	border-radius: 40%;
 }
 h2{
 	color: red;
 }
-.tamano{
-	width:50%;
-	height: 56px;
+.alto{
+	height: 50px;
+}
+.ancho{
+	width:100%;
 }
